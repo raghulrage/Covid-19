@@ -9,3 +9,5 @@ A console based application to view covid-19 India daily update district wise.
 - Select District.
 - The outbreak of covid-19 in given district will be displayed. 
 
+## Data Source
+[covid19India](https://www.covid19india.org/)
